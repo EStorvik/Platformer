@@ -1,7 +1,7 @@
 extends CharacterBody2D
 
 
-const ACCELERATION = 450.0
+const ACCELERATION = 480.0
 const MAX_VELOCITY = 300.0
 const left_button = "ui_left"
 const right_button = "ui_right"
